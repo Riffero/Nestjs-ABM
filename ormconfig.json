@@ -1,0 +1,8 @@
+{
+    "type": "mongodb",
+    "host": "localhost",
+    "port": 27017,
+    "database": "ejemplo-abm",
+    "entities": ["src/models/*.ts"],
+    "useNewUrlParser": true 
+  }
